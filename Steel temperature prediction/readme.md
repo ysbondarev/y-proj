@@ -17,3 +17,7 @@
 
 #### Теги:
 - машинное обучение, ML, Python, Pandas, Numpy, Matplotlib, seaborn, Sklearn
+
+#### Статус проекта:
+
+Завершен.
